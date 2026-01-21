@@ -1,0 +1,77 @@
+{"level":30,"time":"2026-01-21T00:53:24.580Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Listening on 127.0.0.1:64707"}
+{"level":30,"time":"2026-01-21T00:53:24.924Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2026-01-21T00:53:25.860Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Adding browser to stack: chromium, version: 143.0.7499.4"}
+{"level":30,"time":"2026-01-21T00:53:25.861Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2026-01-21T00:53:25.861Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method newBrowser"}
+{"level":30,"time":"2026-01-21T00:53:25.897Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method newContext"}
+{"level":30,"time":"2026-01-21T00:53:25.897Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Creating new context with options: {\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":null}"}
+{"level":30,"time":"2026-01-21T00:53:25.897Z","pid":10372,"hostname":"PC_MacedoHome","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@b99719f315fa60b872a848ecbdf2a34e\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=6b94381e-f3d4-48b9-ae52-21d6774edea9\"}"}
+{"level":30,"time":"2026-01-21T00:53:25.897Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Trace file: "}
+{"level":30,"time":"2026-01-21T00:53:25.941Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Setting default timeout for context context=85913633-1d5c-4fad-8b22-3aedcc7b4c66 to 10000"}
+{"level":30,"time":"2026-01-21T00:53:25.941Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Changed active context: context=85913633-1d5c-4fad-8b22-3aedcc7b4c66"}
+{"level":30,"time":"2026-01-21T00:53:25.941Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method newContext"}
+{"level":30,"time":"2026-01-21T00:53:25.954Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method newPage"}
+{"level":30,"time":"2026-01-21T00:53:25.954Z","pid":10372,"hostname":"PC_MacedoHome","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@b99719f315fa60b872a848ecbdf2a34e\"},\"headless\":false,\"_contextStack\":[{\"id\":\"context=85913633-1d5c-4fad-8b22-3aedcc7b4c66\",\"c\":{\"_type\":\"BrowserContext\",\"_guid\":\"browser-context@f55b43406759bd29c41b37bcd91a1a85\"},\"pageStack\":[],\"options\":{\"acceptDownloads\":true,\"bypassCSP\":false,\"forcedColors\":\"none\",\"ignoreHTTPSErrors\":false,\"javaScriptEnabled\":true,\"offline\":false,\"reducedMotion\":\"no-preference\",\"serviceWorkers\":\"allow\",\"viewport\":null},\"traceFile\":\"\"}],\"id\":\"browser=6b94381e-f3d4-48b9-ae52-21d6774edea9\"}"}
+{"level":30,"time":"2026-01-21T00:53:26.177Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Video path: undefined"}
+{"level":30,"time":"2026-01-21T00:53:26.177Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Changed active page"}
+{"level":30,"time":"2026-01-21T00:53:26.604Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method newPage"}
+{"level":30,"time":"2026-01-21T00:53:26.614Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2026-01-21T00:53:26.614Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Strict mode is enabled, find Locator with xpath=//button[text()='Cadastrar'] in page."}
+{"level":30,"time":"2026-01-21T00:53:26.692Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2026-01-21T00:53:26.703Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method getText"}
+{"level":30,"time":"2026-01-21T00:53:26.703Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Strict mode is enabled, find Locator with xpath=//button[text()='Cadastrar'] in page."}
+{"level":30,"time":"2026-01-21T00:53:26.747Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Retrieved text for element xpath=//button[text()='Cadastrar'] containing Cadastrar"}
+{"level":30,"time":"2026-01-21T00:53:26.747Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method getText"}
+{"level":30,"time":"2026-01-21T00:53:26.760Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-01-21T00:53:26.760Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Strict mode is enabled, find Locator with id=name in page."}
+{"level":30,"time":"2026-01-21T00:53:26.774Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method fillText"}
+{"level":30,"time":"2026-01-21T00:53:26.785Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-01-21T00:53:26.785Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Strict mode is enabled, find Locator with id=email in page."}
+{"level":30,"time":"2026-01-21T00:53:26.805Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method fillText"}
+{"level":30,"time":"2026-01-21T00:53:26.813Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-01-21T00:53:26.813Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Strict mode is enabled, find Locator with id=pass-create in page."}
+{"level":30,"time":"2026-01-21T00:53:26.825Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method fillText"}
+{"level":30,"time":"2026-01-21T00:53:26.840Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method fillText"}
+{"level":30,"time":"2026-01-21T00:53:26.840Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Strict mode is enabled, find Locator with id=pass-confirm in page."}
+{"level":30,"time":"2026-01-21T00:53:26.849Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method fillText"}
+{"level":30,"time":"2026-01-21T00:53:26.873Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method click"}
+{"level":30,"time":"2026-01-21T00:53:26.873Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Strict mode is enabled, find Locator with xpath=//button[text()='Cadastrar'] in page."}
+{"level":30,"time":"2026-01-21T00:53:28.012Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method click"}
+{"level":30,"time":"2026-01-21T00:53:31.026Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2026-01-21T00:53:31.026Z","pid":10372,"hostname":"PC_MacedoHome","Take screenshot with options: ":{"path":"C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Robot\\log-signup\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2026-01-21T00:53:31.161Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2026-01-21T00:53:31.165Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2026-01-21T00:53:31.181Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Removed page=614409e2-ffd5-4977-b4a6-439554f238eb from context=85913633-1d5c-4fad-8b22-3aedcc7b4c66 page stack"}
+{"level":30,"time":"2026-01-21T00:53:31.559Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\index.js:12672:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\index.js:13622:59)
+    at PlaywrightServer.setTimeout (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\index.js:13873:57)
+    at Object.onReceiveHalfClose (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:520:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+=============================================================
+{"level":30,"time":"2026-01-21T00:53:31.565Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-01-21T00:53:31.565Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\index.js:12672:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\index.js:13622:59)
+    at PlaywrightServer.setTimeout (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\index.js:13873:57)
+    at Object.onReceiveHalfClose (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\gabri\AppData\Local\Programs\Python\Python314\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:520:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+=============================================================
+{"level":30,"time":"2026-01-21T00:53:31.570Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2026-01-21T00:53:31.570Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2026-01-21T00:53:31.606Z","pid":10372,"hostname":"PC_MacedoHome","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2026-01-21T00:53:31.606Z","pid":10372,"hostname":"PC_MacedoHome","msg":"End of node method closeAllBrowsers"}
